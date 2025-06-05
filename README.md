@@ -1,6 +1,6 @@
 # 📝 TaskMaster - Gestionnaire de tâches personnel
 
-TaskMaster est une application web simple de gestion de tâches personnelles développée dans le cadre d'un TP DevOps. Elle permet d'ajouter, afficher, marquer comme terminées, et supprimer des tâches, avec persistance locale via le localStorage du navigateur.
+TaskMaster est une application web simple, de gestion de tâches personnelles développée dans le cadre d'un TP DevOps. Elle permet d'ajouter, afficher, marquer comme terminées, et supprimer des tâches, avec persistance locale via le localStorage du navigateur.
 
 ## 🚀 Fonctionnalités
 
