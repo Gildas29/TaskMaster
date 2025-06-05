@@ -31,3 +31,4 @@ cd taskmaster
 ```bash
 docker build -t taskmaster .
 docker run -d -p 8080:80 taskmaster
+```
