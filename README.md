@@ -24,3 +24,10 @@ TaskMaster est une application web simple de gestion de tâches personnelles dé
 ```bash
 git clone https://github.com/Gildas29/TaskMaster.git
 cd taskmaster
+```
+
+### 2. Ouvrir un invite de commande à la racine du projet
+
+```bash
+docker build -t taskmaster .
+docker run -d -p 8080:80 taskmaster
