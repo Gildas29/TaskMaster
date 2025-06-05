@@ -25,7 +25,7 @@ TaskMaster est une application web simple, de gestion de tâches personnelles d�
 git clone https://github.com/Gildas29/TaskMaster.git
 cd taskmaster
 ```
-Lancer l'application Docker. Installer là si pas déjà installer : 
+Lancer l'application Docker Desktop. Installer là si pas déjà installer : 
 
 Windows : https://docs.docker.com/desktop/setup/install/windows-install/
 
